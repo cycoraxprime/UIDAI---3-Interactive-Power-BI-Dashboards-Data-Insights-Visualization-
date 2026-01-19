@@ -10,7 +10,7 @@ Data and Methodology
 
 The analysis is based on processed Aadhaar enrolment and update data aggregated at the pincode, district, and state levels. Feature engineering was performed to derive metrics such as update efficiency, demographic and biometric update ratios, child update gaps, and operational load indicators. Advanced analytical techniques including inequality analysis, clustering, risk thresholding, and scenario simulation were applied before visualization in Power BI.
 
-Dashboard 1 Aadhaar Enrolment and Operational Inequality
+Dashboard 1 Aadhaar Enrolment and Operational Inequality ---
 Objective
 
 This dashboard examines the distribution of Aadhaar enrolment and update activity across states and regions to identify structural inequality in operational load.
@@ -23,7 +23,7 @@ Governance Relevance
 
 This dashboard highlights the need for load aware planning. Uniform allocation of resources may be inefficient when operational demand is highly concentrated. Policymaking should account for regional load disparities to prevent service degradation in high pressure areas.
 
-Dashboard 2 Risk Frontiers and Failure Zones
+Dashboard 2 Risk Frontiers and Failure Zones ---
 Objective
 
 This dashboard identifies regions that are vulnerable to Aadhaar service failure by jointly analyzing operational load, update efficiency, and backlog indicators.
@@ -36,7 +36,7 @@ Governance Relevance
 
 This dashboard enables proactive risk management. Instead of responding after service breakdowns occur, UIDAI can identify high risk regions in advance and prioritize interventions. The capacity simulation component supports evidence based resource allocation and policy justification.
 
-Dashboard 3 Seasonal Stress Vulnerability and Readiness
+Dashboard 3 Seasonal Stress Vulnerability and Readiness ---
 Objective
 
 This dashboard assesses how Aadhaar operations are likely to behave under seasonal demand surges such as festivals, migration cycles, and demographic update spikes.
@@ -49,6 +49,6 @@ Governance Relevance
 
 This dashboard supports anticipatory governance. Seasonal Aadhaar stress is predictable rather than random. By identifying vulnerable regions in advance, UIDAI can deploy temporary surge capacity, conduct targeted outreach, and protect child Aadhaar continuity. This approach reduces costs while improving service reliability during peak demand periods.
 
-Policy Implications
+Policy Implications ---
 
 Together, the three dashboards demonstrate that Aadhaar operational challenges are structural and measurable. The analysis supports a shift from reactive administration to predictive and preventive governance. Cluster based strategies, early warning indicators, and scenario simulation can significantly improve service resilience while optimizing public expenditure.
